@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ftazon
-- 👀 I’m interested in PHP, ES6, Laravel 
-- 🌱 I’m currently working on Laravel 11
-- 💞️ I’m looking to collaborate on projects made for Laravel
+- 👀 I’m interested in Java, Python, PHP, ES6, Laravel 
+- 🌱 I’m currently working on Laravel 12
+- 💞️ I’m looking to collaborate on projects made for Laravel or Java
 - 📫 You can reach me at https://www.feynmandigital.com
 
 <!---
